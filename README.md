@@ -1,5 +1,7 @@
 # Portfolio README
-
+![Project Banner Placeholder](./assets/img/portfolio-screenshot.png)
+![Project Banner Placeholder](./assets/img/portfoli-sreenshot2.png)
+![Project Banner Placeholder](./assets/img/portfolio-screenshot3.png)
 ## Welcome to My Portfolio!
 
 Hello! I'm Ayemo Andrew Onoriode, a passionate Computer Scientist, Front-End Developer, and Teacher, based in Lagos, Nigeria. This portfolio showcases my journey, projects, and skills in front-end development and beyond. 
@@ -13,7 +15,7 @@ Hello! I'm Ayemo Andrew Onoriode, a passionate Computer Scientist, Front-End Dev
 - **Location**: Lagos, Nigeria  
 - **Contact**:  
   - **Email**: ayemoandrewgold@gmail.com  
-  - **Phone**: +234 9135608154  
+  - **Phone**: +234 9135608154, 08124106198 
   - **LinkedIn**: [Andrew Gold](https://www.linkedin.com/in/andrew-gold-5094861b5/)  
 
 ---
@@ -22,7 +24,7 @@ Hello! I'm Ayemo Andrew Onoriode, a passionate Computer Scientist, Front-End Dev
 
 - **Front-End Development**: HTML, CSS, JavaScript, React.js  
 - **Programming Languages**: Python, JavaScript  
-- **Tools and Technologies**: Git, Figma, Visual Studio Code  
+- **Tools and Technologies**: Git, Visual Studio Code  
 - **Other Skills**: Teaching, Problem Solving, Collaboration  
 
 ---
